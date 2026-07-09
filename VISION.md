@@ -2,11 +2,11 @@
 
 ## Our Mission
 
-Phoenix Panel is a modern, open-source Cloudflare Worker panel built for performance, security and simplicity.
+Phoenix Panel is a modern, open-source Cloudflare Worker panel built with performance, security, and simplicity in mind.
 
-Our goal is not to create another panel.
+Our goal isn't to build just another panel.
 
-Our goal is to build the panel we always wished existed.
+Our goal is to build the panel we've always wanted to use.
 
 ---
 
@@ -28,3 +28,13 @@ We don't build shortcuts.
 We build foundations.
 
 Phoenix Panel is designed to evolve for years, not weeks.
+
+---
+
+## Motto
+
+Built with passion.
+
+Built to last.
+
+Built by Phoenix.
